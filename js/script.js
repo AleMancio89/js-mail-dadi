@@ -43,4 +43,5 @@ rollEl.addEventListener('click', function(){
   } else {
     alert(MESSAGE_LOSE + ' Con un punteggio di: ' + userDice + ' Vs ' + computerDice);
   }
+
 });
